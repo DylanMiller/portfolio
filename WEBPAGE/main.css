@@ -1,6 +1,7 @@
 body {
 	color: white;
 	background-image: url("https://socrative-production-static-web.s3.amazonaws.com/img/hex-waiting.gif");
+	border-color: orange;
 }
  div {
  	border-style: solid;
