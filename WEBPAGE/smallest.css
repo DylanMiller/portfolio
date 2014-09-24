@@ -1,7 +1,3 @@
-div#mydiv{
-	width:326px;
-	margin: 0px auto;
-	height:100px;
-	background: #D5E600 ;
-	font-size:27px;
+@media (max-width: 320px) {
+
 }
